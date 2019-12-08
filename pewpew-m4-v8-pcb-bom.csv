@@ -1,0 +1,14 @@
+Part/Designator,Manufacture Part Number/Description,Quantity,Remarks/Links
+U1,ATSAMD51G19A-MU,1,https://www.mouser.ch/ProductDetail/556-ATSAMD51G19AMU
+U2,ST7735R 1.8inch TFT,1,https://www.aliexpress.com/item/32818686437.html
+U3,AP2112K-3.3TRG1 ldo,1,
+"C1,C2",10uF 0805 capacitor 3V,2,
+R1,10Ohm 0805 resistor,1,
+R2,10kOhm 0805 resistor,1,
+R3,470Ohm 0805 resistor,1,
+X1,10118193-0001LF microusb socket,1,https://www.aliexpress.com/item/32874709816.html
+X2,MK12C02 switch,1,https://www.aliexpress.com/item/32812362709.html
+X3,HYG7525,1,https://www.aliexpress.com/item/1707004675.html
+X4,2xAAA battery holder,1,https://www.aliexpress.com/item/32921198766.html
+"BU,BD,BL,BR,BZ,BX,BO",SKRPABE010 switch 1.57N,7,https://www.aliexpress.com/item/4000424101435.html
+,two-sided tape,1,for attaching the battery holder https://www.aliexpress.com/item/33030272723.html

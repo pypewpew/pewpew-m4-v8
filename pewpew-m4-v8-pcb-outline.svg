@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="52.100178mm"
+   height="84.999977mm"
+   viewBox="0 0 52.100177 84.999977"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="litev1body.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6515713"
+     inkscape:cx="89.657584"
+     inkscape:cy="274.73636"
+     inkscape:document-units="mm"
+     inkscape:current-layer="board"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1552"
+     inkscape:window-height="1008"
+     inkscape:window-x="1482"
+     inkscape:window-y="153"
+     inkscape:window-maximized="0"
+     inkscape:snap-bbox="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-page="true"
+     inkscape:bbox-nodes="true">
+    <sodipodi:guide
+       position="26.05,38.749976"
+       orientation="1,0"
+       id="guide855"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="board"
+     transform="translate(-38.950821,-48.304539)">
+    <path
+       id="boardoutline"
+       style="opacity:1;fill:#8a916f;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m 83.869526,133.30452 h 5.181596 c 1.107999,0 1.999878,-0.89188 1.999878,-1.99988 V 50.304419 c 0,-1.108 -0.891879,-1.99988 -1.999878,-1.99988 H 40.951209 c -1.10799,0 -2.00039,0.89188 -2.00039,1.99988 v 81.000221 c 0,1.108 0.8924,1.99988 2.00039,1.99988 H 78.86983 c 0,-0.26372 0,-0.52744 0,-0.79117 0,-0.277 0.222711,-0.49971 0.499711,-0.49971 1.333425,0 2.66685,0 4.000274,0 0.277,0 0.511291,0.22296 0.499711,0.49971 0,0.26373 0,0.52745 0,0.79117 z m -11.47682,-3.38119 c 7.3e-5,1.1599 -0.940229,2.1002 -2.100129,2.10013 H 59.709244 c -1.159899,7e-5 -2.100202,-0.94023 -2.10013,-2.10013 -7.1e-5,-1.1599 0.940231,-2.1002 2.10013,-2.10013 h 10.583333 c 1.1599,-7e-5 2.100202,0.94023 2.100129,2.10013 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssssssccccccccccccc" />
+  </g>
+</svg>
